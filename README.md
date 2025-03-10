@@ -1,70 +1,49 @@
 # Taimur Saadat Finance
 
-A modern financial trading platform website showcasing AI-driven investment strategies and market analysis tools.
+A professional website for Taimur Saadat, showcasing financial expertise, services, and professional background.
 
 ## Features
 
-- Modern dark theme with blue and purple accents
-- Responsive design for all devices
-- Interactive elements and animations:
-  - Elegant heading animations on hover
-  - Gradient color transitions
-  - Slide-in animations for profile image
-  - Smooth scroll navigation
-- Full-width hero section with centered content
-- Professional sections:
+- Responsive design optimized for all devices
+- Modern UI with smooth animations
+- Sections include:
+  - Hero section with strategic vision
   - Services overview
-  - About Me
-  - Education credentials
-  - Market trend analysis
-  - Client testimonials
-- Mobile-friendly navigation with burger menu
-- Contact form with modern styling
-- Social media integration
-- Performance optimized:
-  - Lazy loading for images
-  - Optimized animations
-  - Responsive images
+  - About section with professional background
+  - Education and qualifications
+  - Contact form
+  - Social media integration
 
 ## Technologies Used
 
 - HTML5
-- CSS3 with modern features:
-  - CSS Grid
-  - Flexbox
-  - CSS Variables
-  - Gradients
-  - Custom Animations
-  - Hover Effects
-  - Transform Effects
-- JavaScript (ES6+)
-- Font Awesome Icons
-- Google Fonts (Inter)
+- CSS3 (with Flexbox and Grid)
+- JavaScript (Vanilla)
+- Font Awesome for icons
+- Responsive images with lazy loading
 
-## Contact Information
+## File Structure
 
+- `index.html` - Main HTML file
+- `css/styles.css` - All styling
+- `js/main.js` - JavaScript functionality
+- `assets/` - Images and other media
+
+## Recent Updates
+
+- Enhanced mobile responsiveness
+- Optimized hero section layout
+- Improved form styling and functionality
+- Added lazy loading for images
+- Updated navigation and section ordering
+
+## Contact
+
+For any inquiries, please reach out through:
 - Email: taimur101@yahoo.com
 - Phone: +971 50585 0466
-- Location: Dubai, United Arab Emirates
+- Location: Dubai, UAE
 
-## Setup Instructions
+## License
 
-1. Clone this repository
-2. Download the required images from Pexels and place them in the `assets/images` directory
-3. Open `index.html` in a modern web browser
-
-## Image Requirements
-
-Please download the following images from Pexels and place them in the `assets/images` directory:
-
-1. `hero-trading.jpg` - A professional trading desk setup with multiple monitors
-2. `trend1.jpg` - Global stock market visualization
-3. `trend2.jpg` - Cryptocurrency or blockchain visualization
-4. `trend3.jpg` - Forex trading chart visualization
-5. `testimonial1.jpg` - Professional woman headshot
-6. `testimonial2.jpg` - Professional man headshot
-7. `pic.jpg` - Your professional headshot
-
-## Image Credits
-
-All images should be sourced from Pexels (https://www.pexels.com/) and properly credited according to their license requirements. 
+© 2025 Taimur Saadat. All rights reserved. 
